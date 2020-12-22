@@ -24,13 +24,21 @@
 
 <br>
 
-### Instalação
+### 💾 Instalação
 
 <h5>Mac e Linux</h5>
 
+~~~ Bash
+    python3 -m pip install PySimpleGUI
+    or
+    pip3 install PySimpleGUI
+~~~
 
 <h5>Windows</h5>
 
+~~~ PowerShell
+    python -m pip install PySimpleGUI
+~~~
 
 ### ✔ Status
 
